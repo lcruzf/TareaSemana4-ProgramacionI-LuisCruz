@@ -4,7 +4,6 @@ using namespace std;
 
 int main() {
     string nombre;
-    string nombreAlumno;
     int precioUnitario;
     int cantidadProduc,subtotal;
     double iva,total;
@@ -32,7 +31,7 @@ int main() {
     cout << "Iva: " << iva << endl;
     cout << "Total: " << total << endl;
 
-    cout <<"Desarrollado por: " <<nombreAlumno << endl;
+    cout <<"Desarrollado por: Luis Fernando Cruz Franco " << endl;
 
     return 0;
 }
